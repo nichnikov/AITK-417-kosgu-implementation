@@ -1,0 +1,12 @@
+{
+"db_credentials":{
+    "server_host": "statistics.sps.hq.amedia.tech",
+    "user_name": "nichnikov_ro",
+    "password": "220929SrGHJ#yu"},
+"stopwords_files": ["greetings_stopwords.csv", "stopwords.csv"],
+"LemShortAnswerText": false,
+"LemDocName": false,
+"clusters_index_name": "clusters_test",
+"answers_index_name": "answers_test",
+"greetings_index_name": "greetings_test"
+}

@@ -1,0 +1,5 @@
+pandas
+pymystem3
+pymssql
+pydantic
+pydantic-settings
